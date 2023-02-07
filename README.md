@@ -3,8 +3,8 @@
 <!-- GitHub status -->
 <div>
   <a href="https://github.com/Barro23">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlosneto726&count_private=true&show_icons=true&theme=tokyonight" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosneto726&layout=compact&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Barro23&count_private=true&show_icons=true&theme=tokyonight" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barro23&layout=compact&theme=tokyonight" />
   </a>
  </div>
  
@@ -12,7 +12,7 @@
 <!-- Projetos em destaque -->
 ### Aqui tem alguns projetos em destaque
 <div>
-  <a href="https://github.com/carlosneto726/CPIFG.github.io">
+  <a href="https://github.com/Barro23/trabalhoEDA">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=CPIFG.github.io&theme=tokyonight&show_owner=true"/>
   </a>
   

@@ -12,8 +12,8 @@
 <!-- Projetos em destaque -->
 ### Aqui tem alguns projetos em destaque
 <div>
-  <a href="https://github.com/Barro23/trabalhoEDA">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barro23&repo=trabalhoEad&theme=tokyonight&show_owner=true"/>
+  <a href="hhttps://github.com/Barro23/trabalhoEDA">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barro23&repo=trabalhoEDA&theme=tokyonight&show_owner=true"/>
   </a>
   
   <a href="https://github.com/Barro23/programar-web-mente">

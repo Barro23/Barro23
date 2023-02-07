@@ -13,20 +13,13 @@
 ### Aqui tem alguns projetos em destaque
 <div>
   <a href="https://github.com/Barro23/trabalhoEDA">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=CPIFG.github.io&theme=tokyonight&show_owner=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barro23&repo=trabalhoEad&theme=tokyonight&show_owner=true"/>
   </a>
   
-  <a href="https://github.com/carlosneto726/URI">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=URI&theme=tokyonight&show_owner=true"/>
+  <a href="https://github.com/Barro23/programar-web-mente">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barro23&repo=programar-web-mente&theme=tokyonight&show_owner=true"/>
   </a>
   
-  <a href="https://github.com/carlosneto726/GeoPortal-MarcoZero.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=GeoPortal-MarcoZero.github.io&theme=tokyonight&show_owner=true"/>
-  </a>
-  
-  <a href="https://github.com/carlosneto726/Crud-java">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=Crud-java&theme=tokyonight&show_owner=true"/>
-  </a>
 </div>
 
   ##
@@ -47,6 +40,6 @@
 ### Redes sociais
 <!-- Redes sociais -->
 <div> 
-  <a href="mailto:carlosneto726@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carlosneto726/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="mailto:pbarrosedro2308@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pedro-henrique-barros-55764b239/?original_referer=" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>

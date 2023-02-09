@@ -1,4 +1,4 @@
-## Olá! meu nome é Pedro Henrique, sinta-se a vontade aqui no meu perfil 😊
+## Meu nome é Pedro Henrique, Esse é o meu perfil.
 <br>
 <!-- GitHub status -->
 <div>

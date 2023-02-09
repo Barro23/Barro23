@@ -33,7 +33,9 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-  <img align="right" height="150" style="border-radius:50px;" src="https://media1.giphy.com/media/hex1cjcK4p5yGIiYZL/giphy.gif?cid=790b7611f805ac70649ba57e882749f52858a524e357b3f2&rid=giphy.gif&ct=s">
+  <img align="right" height="150" style="border-radius:50px;" src="https://ia904609.us.archive.org/30/items/spongedance-hd/spongedance-4.gif">
+  <img align="right" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/933702989170999396/1073047200462016542/6md.gif">
+  <img align="right" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/932314104696279070/1073048198932860978/hdt.gif">
 </div>
 
   ##

@@ -3,8 +3,8 @@
 <!-- GitHub status -->
 <div>
   <a href="https://github.com/Barro23">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Barro23&count_private=true&show_icons=true&theme=codeSTACKr" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barro23&layout=compact&theme=codeSTACKr" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Barro23&count_private=true&show_icons=true&theme=great-gatsby" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barro23&layout=compact&theme=great-gatsby" />
   </a>
  </div>
  
@@ -13,11 +13,11 @@
 ### Aqui tem alguns projetos em destaque
 <div>
   <a href="hhttps://github.com/Barro23/trabalhoEDA">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barro23&repo=trabalhoEDA&theme=codeSTACKr&show_owner=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barro23&repo=trabalhoEDA&theme=great-gatsby&show_owner=true"/>
   </a>
   
   <a href="https://github.com/Barro23/programar-web-mente">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barro23&repo=programar-web-mente&theme=codeSTACKr&show_owner=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barro23&repo=programar-web-mente&theme=great-gatsby&show_owner=true"/>
   </a>
   
 </div>

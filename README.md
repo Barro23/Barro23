@@ -12,12 +12,16 @@
 <!-- Projetos em destaque -->
 ### Aqui tem alguns projetos em destaque
 <div>
+  <a href="https://github.com/carlosneto726/CPIFG.github.io">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=CPIFG.github.io&theme=great-gatsby&show_owner=true"/>
+  </a>
+  
   <a href="hhttps://github.com/Barro23/trabalhoEDA">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barro23&repo=trabalhoEDA&theme=great-gatsby&show_owner=true"/>
   </a>
   
   <a href="https://github.com/Barro23/programar-web-mente">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barro23&repo=programar-web-mente&theme=great-gatsby&show_owner=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barro23&repo=ProgramacaoWEB&theme=great-gatsby&show_owner=true"/>
   </a>
   
 </div>

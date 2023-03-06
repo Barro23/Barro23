@@ -34,7 +34,6 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
   <img align="right" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/933702989170999396/1073047200462016542/6md.gif">
-  <img align="right" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/932314104696279070/1073048198932860978/hdt.gif">
 </div>
 
   ##

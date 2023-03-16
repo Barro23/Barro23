@@ -3,8 +3,8 @@
 <!-- GitHub status -->
 <div>
   <a href="https://github.com/Barro23">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Barro23&count_private=true&show_icons=true&theme=transparent" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barro23&layout=compact&theme=transparent" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Barro23&count_private=true&show_icons=true&theme=darcula" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barro23&layout=compact&theme=darcula" />
   </a>
  </div>
  
@@ -13,19 +13,19 @@
 ### Aqui tem alguns projetos em destaque
 <div>
   <a href="https://github.com/Barro23/POO">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barro23&repo=POO&theme=transparent&show_owner=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barro23&repo=POO&theme=darcula&show_owner=true"/>
   </a>
   
   <a href="hhttps://github.com/Barro23/trabalhoEDA">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barro23&repo=trabalhoEDA&theme=transparent&show_owner=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barro23&repo=trabalhoEDA&theme=darcula&show_owner=true"/>
   </a>
   
   <a href="https://github.com/Barro23/programar-web-mente">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barro23&repo=ProgramacaoWEB&theme=transparent&show_owner=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barro23&repo=ProgramacaoWEB&theme=darcula&show_owner=true"/>
   </a>
   
   <a href="https://github.com/carlosneto726/CPIFG.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=CPIFG.github.io&theme=transparent&show_owner=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=CPIFG.github.io&theme=darcula&show_owner=true"/>
   </a>
 </div>
 
@@ -36,10 +36,14 @@
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">  
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" />
+  
   <img align="right" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/933702989170999396/1073047200462016542/6md.gif">
 </div>
 

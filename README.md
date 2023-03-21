@@ -3,8 +3,8 @@
 <!-- GitHub status -->
 <div>
   <a href="https://github.com/Barro23">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Barro23&count_private=true&show_icons=true&theme=darcula" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barro23&layout=compact&theme=darcula" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Barro23&count_private=true&show_icons=true&theme=vision-friendly-dark" />
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barro23&layout=compact&theme=maroongold" />
   </a>
  </div>
  
@@ -13,19 +13,19 @@
 ### Aqui tem alguns projetos em destaque
 <div>
   <a href="https://github.com/Barro23/POO">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barro23&repo=POO&theme=darcula&show_owner=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barro23&repo=POO&theme=vision-friendly-dark&show_owner=true"/>
   </a>
   
   <a href="hhttps://github.com/Barro23/trabalhoEDA">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barro23&repo=trabalhoEDA&theme=darcula&show_owner=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barro23&repo=trabalhoEDA&theme=vision-friendly-dark&show_owner=true"/>
   </a>
   
   <a href="https://github.com/Barro23/programar-web-mente">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barro23&repo=ProgramacaoWEB&theme=darcula&show_owner=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barro23&repo=ProgramacaoWEB&theme=vision-friendly-dark&show_owner=true"/>
   </a>
   
   <a href="https://github.com/carlosneto726/CPIFG.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=CPIFG.github.io&theme=darcula&show_owner=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=CPIFG.github.io&theme=vision-friendly-dark&show_owner=true"/>
   </a>
 </div>
 

@@ -3,8 +3,8 @@
 <!-- GitHub status -->
 <div>
   <a href="https://github.com/Barro23">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Barro23&count_private=true&show_icons=true&theme=vision-friendly-dark" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barro23&layout=compact&theme=maroongold" />
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Barro23&count_private=true&show_icons=true&theme=vision-friendly-dark" />
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barro23&layout=compact&theme=maroongold" />
   </a>
  </div>
  
@@ -15,15 +15,7 @@
   <a href="https://github.com/Barro23/ProgamacaoWEB2">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barro23&repo=ProgamacaoWEB2&theme=vision-friendly-dark&show_owner=true"/>
   </a>
-  
-  <a href="hhttps://github.com/Barro23/trabalhoEDA">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barro23&repo=trabalhoEDA&theme=vision-friendly-dark&show_owner=true"/>
-  </a>
-  
-  <a href="https://github.com/Barro23/programar-web-mente">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barro23&repo=ProgramacaoWEB&theme=vision-friendly-dark&show_owner=true"/>
-  </a>
-  
+    
   <a href="https://github.com/carlosneto726/CPIFG.github.io">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=CPIFG.github.io&theme=vision-friendly-dark&show_owner=true"/>
   </a>

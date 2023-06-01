@@ -3,8 +3,8 @@
 <!-- GitHub status -->
 <div>
   <a href="https://github.com/Barro23">
-    <img height="240em" src="https://github-readme-stats.vercel.app/api?username=Barro23&count_private=true&show_icons=true&bg_color=30,000000,4169E1&title_color=fff&text_color=fff" />
-    <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&layout=donut&bg_color=30,4169E1,000000&title_color=fff&text_color=fff" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Barro23&count_private=true&show_icons=true&bg_color=30,000000,4169E1&title_color=fff&text_color=fff" />
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&layout=donut&bg_color=30,4169E1,000000&title_color=fff&text_color=fff" />
   </a>
  </div>
  

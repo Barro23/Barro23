@@ -12,8 +12,8 @@
 <!-- Projetos em destaque -->
 ### Aqui tem alguns projetos em destaque
 <div>
-  <a href="https://github.com/Barro23/POO">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barro23&repo=POO&theme=vision-friendly-dark&show_owner=true"/>
+  <a href="https://github.com/Barro23/ProgamacaoWEB2">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barro23&repo=ProgamacaoWEB2&theme=vision-friendly-dark&show_owner=true"/>
   </a>
   
   <a href="hhttps://github.com/Barro23/trabalhoEDA">

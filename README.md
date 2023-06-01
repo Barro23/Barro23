@@ -3,8 +3,8 @@
 <!-- GitHub status -->
 <div>
   <a href="https://github.com/Barro23">
-    <img height="240em" src="https://github-readme-stats.vercel.app/api?username=Barro23&count_private=true&show_icons=true&theme=vision-friendly-dark" />
-    <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&theme=vision-friendly-dark" />
+    <img height="240em" src="https://github-readme-stats.vercel.app/api?username=Barro23&count_private=true&show_icons=true&bg_color=30,000000,4169E1&title_color=fff&text_color=fff" />
+    <img height="240em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CharalambosIoannou&layout=donut&bg_color=30,4169E1,000000&title_color=fff&text_color=fff" />
   </a>
  </div>
  
@@ -13,15 +13,18 @@
 ### Aqui tem alguns projetos em destaque
 <div>
   <a href="https://github.com/Barro23/ProgamacaoWEB2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barro23&repo=ProgamacaoWEB2&theme=vision-friendly-dark&show_owner=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barro23&repo=ProgamacaoWEB2&bg_color=20,000000,1180CD&title_color=fff&text_color=fff"/>
   </a>
     
   <a href="https://github.com/carlosneto726/CPIFG.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=CPIFG.github.io&theme=vision-friendly-dark&show_owner=true"/>
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=CPIFG.github.io&bg_color=20,1180CD,000000&title_color=fff&text_color=fff""/>
   </a>
+  
+  
 </div>
 
   ##
+ 
  
 <!-- Tecnologia mais ultilizadas -->
 ### Minhas tecnologias favoritas.
@@ -46,4 +49,4 @@
   <a href="https://www.linkedin.com/in/pedro-henrique-barros-55764b239/?original_referer=" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://www.instagram.com/pedrohenriquebarros5/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </div>
-
+ 

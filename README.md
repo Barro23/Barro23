@@ -14,8 +14,8 @@
 <!-- Projetos em destaque -->
 ### Aqui tem alguns projetos em destaque
 <div>
-  <a href="https://github.com/Barro23/ProgamacaoWEB2">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Barro23&repo=ProgamacaoWEB2&bg_color=20,000000,1180CD&title_color=fff&text_color=fff"/>
+  <a href="https://github.com/carlosneto726/SECITEC">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=SECITEC&bg_color=20,000000,1180CD&title_color=fff&text_color=fff"/>
   </a>
     
   <a href="https://github.com/carlosneto726/CPIFG.github.io">

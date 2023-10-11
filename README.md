@@ -15,11 +15,10 @@
 ### Aqui tem alguns projetos em destaque
 <div>
   <a href="https://github.com/carlosneto726/SECITEC">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=SECITEC&bg_color=20,000000,1180CD&title_color=fff&text_color=fff"/>
+    <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=SECITEC&bg_color=20,000000,1180CD&title_color=fff&text_color=fff"/>
   </a>
-    
   <a href="https://github.com/carlosneto726/CPIFG.github.io">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=CPIFG.github.io&bg_color=20,1180CD,000000&title_color=fff&text_color=fff""/>
+    <img height="140em" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=carlosneto726&repo=CPIFG.github.io&bg_color=20,1180CD,000000&title_color=fff&text_color=fff""/>
   </a>
   
   
